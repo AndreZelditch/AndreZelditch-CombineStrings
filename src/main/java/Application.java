@@ -19,7 +19,7 @@ public class Application {
         System.out.println("Here's what Lab.combine returns when provided the value \"hello\" and \"world\":");
         String p2val1 = "hello";
         String p2val2 = "world";
-        String output2 = cs.combine(p2val1,p2val2);
+        String output2 = cs.combine(p2val1, p2val2);
         System.out.println(output2);
     }
 }
